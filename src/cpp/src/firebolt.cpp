@@ -74,6 +74,7 @@ private:
         hdmiInput_.unsubscribeAll();
         localization_.unsubscribeAll();
         lifecycle_.unsubscribeAll();
+        accessibility_.unsubscribeAll();
     }
 
 private:
